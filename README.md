@@ -18,7 +18,13 @@ Project Structure
 
 
  main.py        # Main script to run the model
+ 
  model.py       # Defines the HazDesNet model architecture
+ 
  requirements.txt # List of required Python packages
+ 
  ui.py          # GUI implementation using Tkinter
+ 
  weights.hdf5   # Pre-trained model weights
+
+After running the application and selecting an image, the output will display the haze density score and a heatmap visualization.
