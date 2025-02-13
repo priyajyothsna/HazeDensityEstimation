@@ -4,10 +4,15 @@ HazDesNet is a deep learning model designed for estimating haze density in image
 
 Features
 
-Uses Keras for deep learning model implementation
-Processes images to estimate haze density
-GUI built with Tkinter for easy image selection and analysis
+Uses Keras for deep learning model implementation.
+
+Processes images to estimate haze density.
+
+GUI built with Tkinter for easy image selection and analysis.
+
 Visualization of haze density using Matplotlib.
+
+Supports multiple image formats (.png, .jpg, .bmp).
 
 Project Structure
 
